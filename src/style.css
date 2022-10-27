@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.grid {
+    width: 400px;
+    height: 300px;
+    border: solid black 1px;
+}
